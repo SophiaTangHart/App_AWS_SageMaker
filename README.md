@@ -1,1 +1,1 @@
-I leveraged AWS SageMaker to build an application based on a Llama 2 model. The Jupyter Notebook invokes an endpoint and inferences a few text generation to inquire about Quantum Mechanics and mRNA drugs.
+I leveraged AWS SageMaker to build an application based on a Llama 2 model. The Jupyter Notebook invokes an endpoint and inferences a few text generation to inquire about Quantum Mechanics and mRNA drug development.
