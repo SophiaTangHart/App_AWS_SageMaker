@@ -1,1 +1,1 @@
-This is my first project on building an application. This application is basic. My target is not the functionality of an application itself, but my goal is to learn the end-to-end process of building an app on AWS.
+I leveraged SageMaker on AWS to build an application based on a Llama 2 model. The Jupyter Notebook invokes an endpoint and inferences a few text generation to inquire about Quantum Mechanics and mRNA drugs.
